@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6860ae17-e013-4345-8a4d-1cc6181464c8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/blongo.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blongo_project/blog/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blongo_project/blog/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/blongo_project/blongo_project/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blongo_project/blongo_project/urls.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -131,7 +129,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="960" height="1080" extended-state="4" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36752138" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
