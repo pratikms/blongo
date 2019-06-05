@@ -1,0 +1,1 @@
+web: gunicorn blongo_project.wsgi
